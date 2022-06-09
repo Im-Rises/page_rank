@@ -1,5 +1,6 @@
 # My ignore files
 
+*.idea/
 [Dd]atasets/
 [Dd]ocs/
 [Tt]rash/
