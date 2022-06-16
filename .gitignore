@@ -1,5 +1,6 @@
 # My ignore files
 
+*.pptx
 *.idea/
 [Dd]atasets/
 [Dd]ocs/
