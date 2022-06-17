@@ -14,8 +14,11 @@ Implementation and explanation of the Google's Page Rank algorithm for website r
     <img src="images/wikipedia_image_page_rank.png" alt="wikipediaImgPageRank">
 </p>
 
-The page rank is a google algorithm for website referencing in google search engine.
+The page rank is a Google algorithm for website referencing in google search engine.
 Nowadays, it is not any more used but is implementation is interesting to apprehend the basis of website reference.
+
+**Note**
+> Today google use more powerfully algorithm as well as several at the same time.
 
 ## Project
 
