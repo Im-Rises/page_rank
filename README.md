@@ -43,3 +43,6 @@ Wikipedia:
 
 Google:  
 <https://www.google.com/search/howsearchworks/>
+
+Search Engine Land:
+<https://searchengineland.com/what-is-google-pagerank-a-guide-for-searchers-webmasters-11068>
