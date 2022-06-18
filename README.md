@@ -61,3 +61,12 @@ Google:
 
 Search Engine Land:  
 <https://searchengineland.com/what-is-google-pagerank-a-guide-for-searchers-webmasters-11068>
+
+## Contributors
+
+Quentin MOREL :
+
+- @Im-Rises
+- <https://github.com/Im-Rises>
+
+[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/page_rank)](https://github.com/Im-Rises/page_rank/graphs/contributors)
