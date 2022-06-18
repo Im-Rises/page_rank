@@ -10,15 +10,15 @@ Implementation and explanation of the Google's Page Rank algorithm for website r
 
 ## Page rank
 
+The page rank is a Google algorithm for website referencing in google search engine.
+I made this program in a learning goal, its implementation is interesting to apprehend the basis of website reference.
+
 <p align="center">
     <img src="images/wikipedia_image_page_rank.png" alt="wikipediaImgPageRank">
 </p>
 
-The page rank is a Google algorithm for website referencing in google search engine.
-Nowadays, it is not any more used but is implementation is interesting to apprehend the basis of website reference.
-
 **Note**
-> Today google use more powerfully algorithm as well as several at the same time.
+> Nowaday's google use other powerfuller algorithms.
 
 ## Project
 
@@ -33,7 +33,6 @@ The second file is a test of the algorithm for a bigger set of website than the 
 It nees the hollins.dat file to work, of course this files is provided with the project.
 
 **Note**
-> The project is not intended for professional use, it is a project to learn the basis of Google referencing.
 > If you want to learn more about Google's current algorithm, check the google link in the `documentations` section.
 
 ## Documentations
