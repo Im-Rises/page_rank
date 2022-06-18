@@ -26,19 +26,13 @@ I made this program in a learning goal, its implementation is interesting to app
 To start each program, please install Python (at least version 3.8):
 <https://www.python.org/downloads/>
 
-There is only one package needed :
+There is only one package needed:
 - numpy
 
-You can install it using the pip python package manager
+You can install it using the pip python package manager:
 
 ```bash
 pip install numpy
-```
-
-or run the following command at the project root:
-
-```bash
-pip install -r requirements.txt
 ```
 
 You'll also need an IDE like Pycharm, VsCode or any other to start the Jupyter Notebook files.
