@@ -7,7 +7,8 @@
 
 ## Description
 
-Implementation and explanation of the Google's Page Rank algorithm for website reference.
+Implementation and explanation of the Google's Page Rank algorithm for website reference.  
+The file `page_rank_exercise` is an explanation of the page rank and the `page_rank_exercise.ipynb` is an application of the page rank on a big dataset.
 
 ## Page rank
 
@@ -21,7 +22,7 @@ I made this program in a learning goal, its implementation is interesting to app
 **Note**
 > Nowaday's google use other powerfuller algorithms.
 
-## Project and quick start
+## Quick start
 
 To start each program, please install Python (at least version 3.8):
 <https://www.python.org/downloads/>
@@ -37,6 +38,8 @@ pip install numpy
 
 You'll also need an IDE like Pycharm, VsCode or any other to start the Jupyter Notebook files.
 
+## Project architecture 
+
 The project is composed of two main files.
 
 The first one is made for the basis learning of the Page Rank algorithm with the basis notions :
@@ -50,6 +53,18 @@ It needs the `hollins.dat` file to work, of course this files is provided with t
 
 **Note**
 > If you want to learn more about Google's current algorithm, check the google link in the `documentations` section.
+
+## Output
+
+The two jupyter notebok files will display the same way the output.
+
+The website with the most important reference value will be displayed in first than the other more important website.
+
+```
+1 : ('http://www.hollins.edu/', 0.0254580229107189)
+2 : ('http://www.hollins.edu/admissions/visit/visit.htm', 0.01105341950078871)
+3 : ('http://www.hollins.edu/about/about_tour.htm', 0.010282488037670167)
+```
 
 ## Documentations
 
