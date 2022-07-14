@@ -60,7 +60,8 @@ The two jupyter notebok files will display the same way the output.
 
 The website with the most important reference value will be displayed in first than the other more important website.
 
-page_rank.ipynb:  
+page_rank.ipynb:
+
 ```
 1 : ('B', 0.2956000000000001)
 2 : ('C', 0.28648000000000007)
@@ -68,7 +69,8 @@ page_rank.ipynb:
 4 : ('A', 0.15512000000000004)
 ```
 
-page_rank_exercise.ipynb:  
+page_rank_exercise.ipynb:
+
 ```
 1 : ('http://www.hollins.edu/', 0.0254580229107189)
 2 : ('http://www.hollins.edu/admissions/visit/visit.htm', 0.01105341950078871)
