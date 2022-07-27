@@ -19,7 +19,7 @@ I made this program in a learning goal, its implementation is interesting to app
     <img src="images/wikipedia_image_page_rank.png" alt="wikipediaImgPageRank">
 </p>
 
-**Note**
+> **Note**
 > Nowaday's google use other powerfuller algorithms.
 
 ## Quick start
