@@ -20,7 +20,7 @@ I made this program in a learning goal, its implementation is interesting to app
 </p>
 
 > **Note**
-> Nowaday's google use other powerfuller algorithms.
+> Nowadays Google use other powerful algorithms.
 
 ## Quick start
 
@@ -52,11 +52,11 @@ The second file is a test of the algorithm for a bigger set of website than the 
 It needs the `hollins.dat` file to work, of course this files is provided with the project.
 
 **Note**
-> If you want to learn more about Google's current algorithm, check the google link in the `documentations` section.
+> If you want to learn more about Google's current algorithm, check the Google link in the `documentations` section.
 
 ## Output
 
-The two jupyter notebok files will display the same way the output.
+The two jupyter notebook files will display the same way the output.
 
 The website with the most important reference value will be displayed in first than the other more important website.
 
